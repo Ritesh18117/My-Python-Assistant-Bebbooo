@@ -8,3 +8,5 @@ It can do stuffs like :
 2) You can play a youtube vedio
 3) It can also tell jokes
 4) You can search about anything from wikipedia.
+
+Before using this make sure that you are connected to Internet otherwise it will throw errors.
