@@ -11,7 +11,7 @@ engine = pyttsx3.init()     #setting pyttsx3 engin
 voices = engine.getProperty('voices')    #getting voices of Pyttsx3
 engine.setProperty('voice', voices[1].id)   #Setting voice of AI to femail voice
 
-engine.say('I am BEBBOOO your AI')
+engine.say('I am BEBBOOO your Assistant')
 engine.say('How may I help You')
 engine.runAndWait()
 
