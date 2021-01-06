@@ -8,7 +8,7 @@
 
 © Ritesh Kr. Gupta
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE.txt).
 
 
 # My-Python-Assistant-Bebbooo
