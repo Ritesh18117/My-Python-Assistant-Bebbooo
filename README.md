@@ -1,3 +1,16 @@
+**Version 1.0.0**
+
+## Contributors
+
+	-Ritesh Kr. Gupta
+
+##License & copyright
+
+© Ritesh Kr. Gupta
+
+Licensed under the [MIT License](LICENSE).
+
+
 # My-Python-Assistant-Bebbooo
 It is Bebbooo your personal assistant like Google and Alexa which can do stuffs that you order.
 
